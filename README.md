@@ -1,2 +1,2 @@
-# Nike-shoes-landing-page
-designed the landing page using parallel space 
+# Shoes-Nike-Landing-Page
+Online Shoes Store Concept Landing Page
